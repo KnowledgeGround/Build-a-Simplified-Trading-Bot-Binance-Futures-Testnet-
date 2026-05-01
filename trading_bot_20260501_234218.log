@@ -1,0 +1,2 @@
+2026-05-01 23:42:18,877 - bot.logging_config - INFO - Logging initialized. Log file: logs\trading_bot_20260501_234218.log
+2026-05-01 23:42:19,356 - bot.client - INFO - Binance Futures Testnet client initialized successfully
